@@ -47,5 +47,5 @@ Conditional Formatting,
 Conclusion:
 The project demonstrates practical Excel skills in data cleaning, standardization, duplicate removal, transformation, formatting, and visual highlighting. The completed process improves the quality, consistency, readability, and usability of the dataset for further data analysis.
 
-By
+By -
 Amirtharaj R
